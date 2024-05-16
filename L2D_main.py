@@ -1,5 +1,6 @@
 import numpy as np
 import random
+from SVM_L2D.L2D_SVM import L2D_SVM
 
 if __name__ == '__main__':
     random.seed(11)
